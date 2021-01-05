@@ -53,6 +53,3 @@ def addTwoBinary(nums1,nums2):
 nums1 = [1,0,1,0,1,0]
 nums2 = [1,1,1,0,0,1]
 print(addTwoBinary(nums1,nums2))
-
-
-
