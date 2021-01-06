@@ -31,3 +31,4 @@ inOrderShow(root)
 delete(root,search(root,3))
 print('*'*20)
 inOrderShow(root)
+# to make the binary search tree keep efficient, we can randomly generate it to avoid add item in order of increasing or decreasing.
