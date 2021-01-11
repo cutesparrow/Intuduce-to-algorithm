@@ -17,7 +17,7 @@ class Stack:
         if self.top == 0:
             return True
         return False
-def Queue:
+class Queue:
     def __init__(self):
         self._list = []
         self.head = 0
@@ -32,4 +32,3 @@ def Queue:
         return self._list[self.head-1]
     def queueEmpty(self):
         return True if self.head == self.tail else False
-        
